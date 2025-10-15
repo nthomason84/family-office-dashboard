@@ -1,0 +1,20 @@
+# Data files - never upload these
+data/
+*.csv
+*.xlsx
+*.xls
+
+# Secrets - never upload these
+.streamlit/
+secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# OS files
+.DS_Store
+Thumbs.db
