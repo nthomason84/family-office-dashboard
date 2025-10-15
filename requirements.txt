@@ -9,7 +9,3 @@ statsmodels
 numpy-financial
 Pillow
 openai
-datetime
-warnings
-io
-typing
